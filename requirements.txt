@@ -1,0 +1,7 @@
+pandas
+plotly
+jinja2
+openpyxl
+notebook
+ipykernel
+matplotlib
