@@ -89,4 +89,4 @@ Siguientes pasos sugeridos
 
 Contacto
 ---
-Si querés que lo deje en forma de repo listo para compartir (con `requirements.txt`, tests simples o archivos de salida), dime qué prefieres y lo preparo.
+diego.27luis@gmail.com
